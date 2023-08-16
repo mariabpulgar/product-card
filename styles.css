@@ -108,7 +108,7 @@ div > div > div > button > img{
 
 /* media queries */
 
-@media(max-width: 416px){
+@media(max-width: 430px){
     .rectangle {
         background-color: white;
         width: 95%;
